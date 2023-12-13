@@ -17,11 +17,14 @@ public class GameUI {
 
 
     public static void gameRules() {
-        System.out.println("Here are the rules of the game:\n" +
-                "1. You will play five games for each round.\n" +
-                "2. You will earn 20 scores for each correct answer.\n" +
-                "3. If you answer all questions correctly, you will receive 100 scores.\n" +
-                "4. After finishing a round, you can choose to play more if you'd like.\n");
+        System.out.println("""
+                
+                Here are the rules of the game:
+                1. You will play five games for each round.
+                2. You will earn 20 scores for each correct answer.
+                3. If you answer all questions correctly, you will receive 100 scores.
+                4. After finishing a round, you can choose to play more if you'd like.
+                """);
     }
 
     public static void readyToPlay() {

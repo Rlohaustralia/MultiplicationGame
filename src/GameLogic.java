@@ -20,7 +20,7 @@ public class  GameLogic {
             int secondNum = random2.nextInt(9) + 1;
             int multiply = firstNum * secondNum;
 
-            System.out.printf("%d X %d%n", firstNum, secondNum);
+            System.out.printf("%n%d X %d%n", firstNum, secondNum);
             int answer = keyboard.nextInt();
 
             if (answer == multiply) {
@@ -35,9 +35,8 @@ public class  GameLogic {
     public static void showResult() {
         Scanner keyboard = new Scanner(System.in);
 
-        System.out.printf("You've scored %d out of 100.", score);
-
-        System.out.println("Do you want to do another game? [Y or N] ");
+        System.out.printf("%nYou've scored %d out of 100.%n", score);
+        System.out.println("Would you like to play another game? [Y or N] ");
         String answer = keyboard.next();
 
 
