@@ -21,10 +21,10 @@ At the end of the game, show them how many points they earned and ask them for m
 
 <img width="652" alt="Screenshot 2023-12-18 at 5 05 37 pm" src="https://github.com/Rlohaustralia/MultiplicationGame/assets/110233607/38e8672c-1103-4f14-aaad-29383c907717">
 
-Do another round. If the user wants to stop playing and types 'N' or 'n,' then the program exits.
+Do another round.
 
 <img width="675" alt="Screenshot 2023-12-18 at 5 05 53 pm" src="https://github.com/Rlohaustralia/MultiplicationGame/assets/110233607/2c9e707c-f493-4f11-ad4e-36fdbbe6ea3c">
 
-
+If the user wants to stop playing and types 'N' or 'n,' then the program exits.
 
 <img width="684" alt="Screenshot 2023-12-18 at 5 06 01 pm" src="https://github.com/Rlohaustralia/MultiplicationGame/assets/110233607/b79c59e0-d3ec-4249-99a2-2b2d3b1d3935">
