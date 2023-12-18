@@ -1,3 +1,7 @@
+// Developer : Eojin Ra
+// This source code is a simple console-based Mulitiplication game implemented in Java
+// Last updated : 18 Dec 2023
+
 public class Main {
     public static void main(String[] args) {
         playGame();
